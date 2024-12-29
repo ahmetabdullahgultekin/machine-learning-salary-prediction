@@ -1,0 +1,42 @@
+2024-12-22 19:07:00,764 - INFO - Dataset divided into training and testing sets.
+2024-12-22 19:07:00,773 - INFO - Categorical columns encoded and outliers handled.
+2024-12-22 19:07:00,775 - INFO - Data loaded successfully.
+2024-12-22 19:07:00,864 - INFO - Correlation matrix plotted.
+2024-12-22 19:07:00,880 - INFO - Education level plotted.
+2024-12-22 19:07:00,928 - INFO - Gender vs Education Level plotted.
+2024-12-22 19:07:00,960 - INFO - Gender vs Salary plotted.
+2024-12-22 19:07:01,029 - INFO - Histograms plotted.
+2024-12-22 19:07:01,217 - INFO - Numerical columns plotted.
+2024-12-22 19:07:01,220 - INFO - Starting data preprocessing...
+2024-12-22 19:07:01,227 - INFO - Data preprocessing completed.
+2024-12-22 19:07:01,228 - INFO - Processed data saved successfully.
+2024-12-22 19:07:01,231 - INFO - Dataset divided into training and testing sets.
+2024-12-22 19:07:01,239 - INFO - Models created, trained, and saved successfully.
+2024-12-22 20:45:26,707 - INFO - Dataset divided into training and testing sets.
+2024-12-22 20:45:26,719 - INFO - Categorical columns encoded and outliers handled.
+2024-12-22 20:45:26,720 - INFO - Data loaded successfully.
+2024-12-22 20:45:26,809 - INFO - Correlation matrix plotted.
+2024-12-22 20:45:26,826 - INFO - Education level plotted.
+2024-12-22 20:45:26,875 - INFO - Gender vs Education Level plotted.
+2024-12-22 20:45:26,902 - INFO - Gender vs Salary plotted.
+2024-12-22 20:45:26,964 - INFO - Histograms plotted.
+2024-12-22 20:45:27,084 - INFO - Numerical columns plotted.
+2024-12-22 20:45:27,085 - INFO - Starting data preprocessing...
+2024-12-22 20:45:27,090 - INFO - Data preprocessing completed.
+2024-12-22 20:45:27,092 - INFO - Processed data saved successfully.
+2024-12-22 20:45:27,095 - INFO - Dataset divided into training and testing sets.
+2024-12-22 20:45:27,103 - INFO - Models created, trained, and saved successfully.
+2024-12-22 20:46:22,141 - INFO - Dataset divided into training and testing sets.
+2024-12-22 20:46:22,149 - INFO - Categorical columns encoded and outliers handled.
+2024-12-22 20:46:22,150 - INFO - Data loaded successfully.
+2024-12-22 20:46:22,236 - INFO - Correlation matrix plotted.
+2024-12-22 20:46:22,256 - INFO - Education level plotted.
+2024-12-22 20:46:22,302 - INFO - Gender vs Education Level plotted.
+2024-12-22 20:46:22,328 - INFO - Gender vs Salary plotted.
+2024-12-22 20:46:22,382 - INFO - Histograms plotted.
+2024-12-22 20:46:22,530 - INFO - Numerical columns plotted.
+2024-12-22 20:46:22,532 - INFO - Starting data preprocessing...
+2024-12-22 20:46:22,536 - INFO - Data preprocessing completed.
+2024-12-22 20:46:22,537 - INFO - Processed data saved successfully.
+2024-12-22 20:46:22,541 - INFO - Dataset divided into training and testing sets.
+2024-12-22 20:46:22,546 - INFO - Models created, trained, and saved successfully.

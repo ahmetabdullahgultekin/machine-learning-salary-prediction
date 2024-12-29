@@ -1,0 +1,132 @@
+2024-12-29 10:42:07,111 - INFO - Data loaded successfully.
+2024-12-29 10:42:07,138 - INFO - General information about the data:
+   work_year experience_level  ... company_location company_size
+0       2024               MI  ...               US            M
+1       2024               MI  ...               US            M
+2       2024               SE  ...               US            L
+3       2024               SE  ...               US            L
+4       2024               SE  ...               US            L
+
+[5 rows x 11 columns]
+2024-12-29 10:42:07,165 - INFO - Details of the data:
+          work_year        salary  salary_in_usd  remote_ratio
+count  71812.000000  7.181200e+04   71812.000000  71812.000000
+mean    2023.821840  1.627271e+05  158123.673954     21.618253
+std        0.472623  1.939419e+05   72194.451654     41.045309
+min     2020.000000  1.400000e+04   15000.000000      0.000000
+25%     2024.000000  1.075000e+05  107500.000000      0.000000
+50%     2024.000000  1.480000e+05  147900.000000      0.000000
+75%     2024.000000  2.000000e+05  199742.000000      0.000000
+max     2024.000000  3.040000e+07  800000.000000    100.000000
+2024-12-29 10:42:07,194 - INFO - Missing values:
+work_year             0
+experience_level      0
+employment_type       0
+job_title             0
+salary                0
+salary_currency       0
+salary_in_usd         0
+employee_residence    0
+remote_ratio          0
+company_location      0
+company_size          0
+dtype: int64
+2024-12-29 10:42:07,195 - INFO - Starting data preprocessing...
+2024-12-29 10:42:07,239 - INFO - Data preprocessing completed.
+2024-12-29 10:42:07,315 - INFO - Categorical columns encoded and outliers handled.
+2024-12-29 10:42:07,506 - INFO - Processed data saved successfully.
+2024-12-29 10:42:07,543 - INFO - Dataset divided into training and testing sets.
+2024-12-29 10:42:07,574 - INFO - Linear regression model fitted successfully.
+2024-12-29 10:42:07,654 - INFO - Decision tree model fitted successfully.
+2024-12-29 10:42:11,136 - INFO - Random forest model fitted successfully.
+2024-12-29 10:43:28,929 - INFO - Ridge model fitted successfully.
+2024-12-29 10:43:29,045 - INFO - Polynomial regression model fitted successfully.
+2024-12-29 10:43:37,701 - INFO - Models created and predictions made successfully.
+2024-12-29 11:05:54,668 - INFO - Data loaded successfully.
+2024-12-29 11:05:54,679 - INFO - General information about the data:
+   work_year experience_level  ... company_location company_size
+0       2024               MI  ...               US            M
+1       2024               MI  ...               US            M
+2       2024               SE  ...               US            L
+3       2024               SE  ...               US            L
+4       2024               SE  ...               US            L
+
+[5 rows x 11 columns]
+2024-12-29 11:05:54,695 - INFO - Details of the data:
+          work_year        salary  salary_in_usd  remote_ratio
+count  71812.000000  7.181200e+04   71812.000000  71812.000000
+mean    2023.821840  1.627271e+05  158123.673954     21.618253
+std        0.472623  1.939419e+05   72194.451654     41.045309
+min     2020.000000  1.400000e+04   15000.000000      0.000000
+25%     2024.000000  1.075000e+05  107500.000000      0.000000
+50%     2024.000000  1.480000e+05  147900.000000      0.000000
+75%     2024.000000  2.000000e+05  199742.000000      0.000000
+max     2024.000000  3.040000e+07  800000.000000    100.000000
+2024-12-29 11:05:54,713 - INFO - Missing values:
+work_year             0
+experience_level      0
+employment_type       0
+job_title             0
+salary                0
+salary_currency       0
+salary_in_usd         0
+employee_residence    0
+remote_ratio          0
+company_location      0
+company_size          0
+dtype: int64
+2024-12-29 11:05:54,714 - INFO - Starting data preprocessing...
+2024-12-29 11:05:54,744 - INFO - Data preprocessing completed.
+2024-12-29 11:05:54,814 - INFO - Categorical columns encoded and outliers handled.
+2024-12-29 11:05:55,049 - INFO - Processed data saved successfully.
+2024-12-29 11:05:55,064 - INFO - Dataset divided into training and testing sets.
+2024-12-29 11:05:55,077 - INFO - Linear regression model fitted successfully.
+2024-12-29 11:05:55,129 - INFO - Decision tree model fitted successfully.
+2024-12-29 11:05:58,450 - INFO - Random forest model fitted successfully.
+2024-12-29 11:07:17,040 - INFO - Ridge model fitted successfully.
+2024-12-29 11:07:17,156 - INFO - Polynomial regression model fitted successfully.
+2024-12-29 11:07:39,614 - INFO - Models created and predictions made successfully.
+2024-12-29 11:09:40,872 - INFO - Data loaded successfully.
+2024-12-29 11:09:40,884 - INFO - General information about the data:
+   work_year experience_level  ... company_location company_size
+0       2024               MI  ...               US            M
+1       2024               MI  ...               US            M
+2       2024               SE  ...               US            L
+3       2024               SE  ...               US            L
+4       2024               SE  ...               US            L
+
+[5 rows x 11 columns]
+2024-12-29 11:09:40,901 - INFO - Details of the data:
+          work_year        salary  salary_in_usd  remote_ratio
+count  71812.000000  7.181200e+04   71812.000000  71812.000000
+mean    2023.821840  1.627271e+05  158123.673954     21.618253
+std        0.472623  1.939419e+05   72194.451654     41.045309
+min     2020.000000  1.400000e+04   15000.000000      0.000000
+25%     2024.000000  1.075000e+05  107500.000000      0.000000
+50%     2024.000000  1.480000e+05  147900.000000      0.000000
+75%     2024.000000  2.000000e+05  199742.000000      0.000000
+max     2024.000000  3.040000e+07  800000.000000    100.000000
+2024-12-29 11:09:40,924 - INFO - Missing values:
+work_year             0
+experience_level      0
+employment_type       0
+job_title             0
+salary                0
+salary_currency       0
+salary_in_usd         0
+employee_residence    0
+remote_ratio          0
+company_location      0
+company_size          0
+dtype: int64
+2024-12-29 11:09:40,925 - INFO - Starting data preprocessing...
+2024-12-29 11:09:40,955 - INFO - Data preprocessing completed.
+2024-12-29 11:09:41,027 - INFO - Categorical columns encoded and outliers handled.
+2024-12-29 11:09:41,215 - INFO - Processed data saved successfully.
+2024-12-29 11:09:41,227 - INFO - Dataset divided into training and testing sets.
+2024-12-29 11:09:41,237 - INFO - Linear regression model fitted successfully.
+2024-12-29 11:09:41,292 - INFO - Decision tree model fitted successfully.
+2024-12-29 11:09:44,652 - INFO - Random forest model fitted successfully.
+2024-12-29 11:11:15,969 - INFO - Ridge model fitted successfully.
+2024-12-29 11:11:16,074 - INFO - Polynomial regression model fitted successfully.
+2024-12-29 11:12:10,968 - INFO - Models created and predictions made successfully.
